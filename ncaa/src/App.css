@@ -28,6 +28,29 @@
   color: #61dafb;
 }
 
+.team-info {
+  background-color: #f0f0f0; /* Light grey background */
+  border: 2px solid #007bff; /* Blue border */
+  border-radius: 8px; /* Rounded corners */
+  padding: 20px; /* Spacing inside the box */
+  margin: 20px 0; /* Space between each team info box */
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1); /* Soft shadow around the box */
+}
+
+.team-info h2 {
+  color: #007bff; /* Blue color for school name */
+  margin-bottom: 10px; /* Space between school name and mascot */
+}
+
+.team-info h3 {
+  color: #333; /* Dark grey for mascot text */
+}
+
+.team-info h4 {
+  color: #666; /* Lighter grey for location */
+  font-style: italic; /* Italicize the location */
+}
+
 @keyframes App-logo-spin {
   from {
     transform: rotate(0deg);
