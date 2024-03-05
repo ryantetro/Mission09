@@ -19,9 +19,10 @@ interface TeamProps {
 function Heading() {
   return (
     <header>
-      <h1>Get to know the NCAA Basketball Teams</h1>
+      <h1>March Madness</h1>
       <p>
-        Explore teams across all the colleges participating in NCAA Basketball.
+        Take a look at all of the teams that have a chance to participate in
+        March Madness!
       </p>
     </header>
   );
